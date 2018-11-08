@@ -5,7 +5,8 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "test": {
+    "sub": {
+      "sub2 = "SUCCESS" }
   }
 }
